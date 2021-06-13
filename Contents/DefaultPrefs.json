@@ -1,0 +1,20 @@
+[
+	{
+		"id": "sjva_url",
+		"label": "SJVA 주소",
+		"type": "text",
+		"default": ""
+	},
+	{
+		"id": "sjva_apikey",
+		"label": "SJVA APIKEY",
+		"type": "text",
+		"default": ""
+	},
+	{
+		"id": "timeout",
+		"label": "URL 요청 timeout",
+		"type": "text",
+		"default": "3000"
+	}
+]
